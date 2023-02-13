@@ -1,0 +1,5 @@
+2023-02-13 12:45:31:4531 - [31merror[39m: [31mErro no sistema: user is not allowed to do action [insert] on [test.movies][39m
+2023-02-13 13:20:15:2015 - [31merror[39m: [31mErro no sistema: Movie validation failed: stars: Cast to string failed for value "[ 'Vin Diesel', 'Paul Walker' ]" (type Array) at path "stars"[39m
+2023-02-13 13:32:35:3235 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "63ea636de20ac7c91acc9a68f" (type string) at path "_id" for model "Movie"[39m
+2023-02-13 13:35:30:3530 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "63ea636de20ac7c91acc9a68f" (type string) at path "_id" for model "Movie"[39m
+2023-02-13 13:53:17:5317 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "63ea636de20ac7c91acc9a68f" (type string) at path "_id" for model "Movie"[39m
